@@ -1,5 +1,5 @@
 class DroneDeliverySystem {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         scheduleDelivery(5, 20);
         scheduleDelivery(10, 15);
         scheduleDelivery(8, 25);
