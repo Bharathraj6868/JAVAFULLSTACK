@@ -1,5 +1,5 @@
 class ELearningPlatform {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         trackCourseProgress(20, 75);
         trackCourseProgress(30, 50);
         trackCourseProgress(25, 60);
