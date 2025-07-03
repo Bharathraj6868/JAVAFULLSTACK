@@ -1,5 +1,5 @@
 class MentalHealthApp {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         logMeditationSession(5, 10);
         logMeditationSession(10, 15);
         logMeditationSession(8, 12);
