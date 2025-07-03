@@ -1,5 +1,5 @@
 class RenewableEnergyManager {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         balanceGridLoad(50, 100);
         balanceGridLoad(100, 80);
         balanceGridLoad(75, 90);
