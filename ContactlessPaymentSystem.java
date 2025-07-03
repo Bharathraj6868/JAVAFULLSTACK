@@ -1,5 +1,5 @@
 class ContactlessPaymentSystem {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         processPayment(5, 100);
         processPayment(10, 50);
         processPayment(8, 75);
