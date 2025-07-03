@@ -1,5 +1,5 @@
 class SmartTrafficController {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         optimizeTrafficFlow(20, 50);
         optimizeTrafficFlow(30, 40);
         optimizeTrafficFlow(25, 60);
