@@ -1,5 +1,5 @@
 class AutonomousVehicleSystem {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         navigateRoute(100, 50);
         navigateRoute(200, 40);
         navigateRoute(150, 60);
