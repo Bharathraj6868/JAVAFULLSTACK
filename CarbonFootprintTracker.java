@@ -1,5 +1,5 @@
 class CarbonFootprintTracker {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         calculateTripImpact(100, 20);
         calculateTripImpact(200, 15);
         calculateTripImpact(150, 10);
