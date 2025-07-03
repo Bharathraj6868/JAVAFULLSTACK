@@ -1,5 +1,5 @@
 class GroceryDeliveryService {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         processOrder(10, 5);
         processOrder(20, 3);
         processOrder(15, 4);
