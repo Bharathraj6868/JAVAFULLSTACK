@@ -1,5 +1,5 @@
 class AirQualityMonitor {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         reportAirQuality(10, 500);
         reportAirQuality(20, 600);
         reportAirQuality(15, 450);
