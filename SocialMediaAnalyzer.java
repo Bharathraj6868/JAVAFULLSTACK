@@ -1,5 +1,5 @@
 class SocialMediaAnalyzer {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         getTrendingTopics(100, 500);
         getTrendingTopics(200, 300);
         getTrendingTopics(150, 400);
