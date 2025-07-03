@@ -1,5 +1,5 @@
 class CybersecurityMonitor {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         detectThreats(100, 1000);
         detectThreats(200, 500);
         detectThreats(150, 750);
