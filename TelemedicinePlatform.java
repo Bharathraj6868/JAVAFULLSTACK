@@ -1,5 +1,5 @@
 class TelemedicinePlatform {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         conductConsultation(5, 30);
         conductConsultation(10, 20);
         conductConsultation(8, 25);
