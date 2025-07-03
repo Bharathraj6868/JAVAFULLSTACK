@@ -1,5 +1,5 @@
 class VirtualMeetingScheduler {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         scheduleMeeting(5, 60);
         scheduleMeeting(10, 45);
         scheduleMeeting(8, 30);
