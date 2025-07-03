@@ -1,5 +1,5 @@
 class WearableHealthMonitor {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         checkVitalSigns(70, 60);
         checkVitalSigns(80, 45);
         checkVitalSigns(75, 30);
